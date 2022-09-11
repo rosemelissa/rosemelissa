@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 
 I'm Melissa, a Software Engineer using the PERN stack.
 
-- 🔭 I’m currently working on a YouTube-to-Spotify playlist converter
-- 🤔 I’m looking for help with finding my first role
+- 🔭 I’m currently working on: <a href="https://github.com/rosemelissa/playlist-converter-frontend">a YouTube-to-Spotify playlist converter</a>
+- 🤔 I’m looking for help with: finding my first role
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/melissa-rose123/">LinkedIn<a/>
 - 😄 Pronouns: she/her
 
 ### Some of my recent projects:
-(Fullstack apps deploy from Heroku so may need 10 secs for server to wake up)
+(Fullstack apps deploy from Heroku so may need ~10 secs for server to wake up)
 
 - <a href="https://melissa-todo-projects.netlify.app/">Fullstack todo app<a> - <a href="https://github.com/rosemelissa/todo-projects-frontend">front</a> | <a href="https://github.com/rosemelissa/todo-projects-backend">back</a>
 - <a href="https://melissa-pokemon-top-trumps.netlify.app/">Pokemon Top Trumps</a> - <a href="https://github.com/rosemelissa/pokemon-top-trumps">front</a>
