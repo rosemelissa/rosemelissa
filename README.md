@@ -9,11 +9,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
+- 🔭 I'm currently working on...
 -->
 
 I'm Melissa, a Software Engineer using the PERN stack.
 
-- 🔭 I’m currently working on: <a href="https://github.com/rosemelissa/playlist-converter-frontend">a YouTube-to-Spotify playlist converter</a>
+- 🎵 I’m currently working on: <a href="https://github.com/rosemelissa/playlist-converter-frontend">a YouTube-to-Spotify playlist converter</a>
 - 🤔 I’m looking for help with: finding my first role
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/melissa-rose123/">LinkedIn<a/>
 - 😄 Pronouns: she/her
