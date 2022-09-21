@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I'm Melissa, a Software Engineer using the PERN stack.
 
 - 🎓 I’m currently working on: A site where software engineering students can share learning resources
+- 🌱 I’m currently learning: How to build multiplayer 3D games using p5.js
 
 ### Some of my recent projects:
 (Fullstack apps deploy from Heroku so may need ~10 secs for server to wake up)
@@ -30,4 +31,4 @@ I'm Melissa, a Software Engineer using the PERN stack.
 🎨 I also love experimenting with <a href="https://openprocessing.org/user/334099?view=sketches&o=36">creative coding using p5.js</a>
 
 ### Contact me:
-[LinkedIn](https://www.linkedin.com/in/melissa-rose123/)
+- [LinkedIn](https://www.linkedin.com/in/melissa-rose123/)
