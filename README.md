@@ -24,7 +24,7 @@ I'm Melissa, a Software Engineer using the PERN stack.
 (Fullstack apps deploy from Heroku so may need ~10 secs for server to wake up)
 
 - <a href="https://melissa-todo-projects.netlify.app/">Fullstack todo app<a> - <a href="https://github.com/rosemelissa/todo-projects-frontend">front</a> | <a href="https://github.com/rosemelissa/todo-projects-backend">back</a>
-- [Restauarant booking system](https://rosemelissa-restaurant.netlify.app/) - [front](https://github.com/rosemelissa/restaurant-frontend) | [back](https://github.com/rosemelissa/restaurant-backend)
+- [Restaurant booking system](https://rosemelissa-restaurant.netlify.app/) - [front](https://github.com/rosemelissa/restaurant-frontend) | [back](https://github.com/rosemelissa/restaurant-backend)
 - [YouTube-to-Spotify Playlist Converter](https://rosemelissa-playlist-converter.netlify.app/) - [front](https://github.com/rosemelissa/playlist-converter-frontend) (please see README for info on logging into Spotify while this app is in development mode)
 - <a href="https://melissa-pokemon-top-trumps.netlify.app/">Pokemon Top Trumps</a> - <a href="https://github.com/rosemelissa/pokemon-top-trumps">front</a>
 
