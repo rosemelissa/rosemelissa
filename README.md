@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 -->
 
-I'm Melissa, a Software Engineer using the PERN stack.
+I'm Melissa, a Fullstack Software Engineer.
 
 - 🎓 I’m currently working on: A site where software engineering students can share learning resources
 - 🌱 I’m currently learning: How to build multiplayer 3D games using p5.js
